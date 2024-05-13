@@ -1,0 +1,24 @@
+{
+  "id": "df440f52-7f96-4e53-b51c-94a2712deb95",
+  "PersonalDetail": {
+    "First Name": "Aditya",
+    "Last Name": "Rane",
+    "Current CTC": "9 LPA"
+  },
+  "AdditionalDetail": [
+    {
+      "Name": "Skills",
+      "Value": "string",
+      "MultipleChoice": [
+        "SQL",
+        "CosmosDB"
+      ],
+      "Othervalue": "string"
+    }
+  ],
+  "_rid": "V+hxAI+njvMBAAAAAAAAAA==",
+  "_self": "dbs/V+hxAA==/colls/V+hxAI+njvM=/docs/V+hxAI+njvMBAAAAAAAAAA==/",
+  "_etag": "\"00000000-0000-0000-a55c-32d2f50501da\"",
+  "_attachments": "attachments/",
+  "_ts": 1715621836
+}
